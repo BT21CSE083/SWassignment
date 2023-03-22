@@ -1,0 +1,93 @@
+commit 8f9c3e1bcd9462c3def11d050e8a9dd74ebefd10
+Author: Aditya Nitin Mohite <adityamohitejee@gmail.com>
+Date:   Wed Mar 22 10:23:20 2023 +0530
+
+    Deleting jobinfo.txt
+
+diff --git a/jobinfo.txt b/jobinfo.txt
+deleted file mode 100644
+index 23bdfdd..0000000
+--- a/jobinfo.txt
++++ /dev/null
+@@ -1,2 +0,0 @@
+-Expected Graduation Year: 2025
+-Job Title: Game development
+
+commit bcb390ddf00409d83d988a694bd7700ec70e2798
+Author: Aditya Nitin Mohite <adityamohitejee@gmail.com>
+Date:   Wed Mar 22 09:21:15 2023 +0530
+
+    jobinfo.txt was created here
+
+diff --git a/jobinfo.txt b/jobinfo.txt
+new file mode 100644
+index 0000000..23bdfdd
+--- /dev/null
++++ b/jobinfo.txt
+@@ -0,0 +1,2 @@
++Expected Graduation Year: 2025
++Job Title: Game development
+
+commit 86505d52c4cb2fb0337982b0af01e24dbf14ef89
+Author: Aditya Nitin Mohite <adityamohitejee@gmail.com>
+Date:   Wed Mar 22 09:13:00 2023 +0530
+
+    file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..5873868
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1,2 @@
++Expected Graduation Year: 2025
++Job Title: Game development
+\ No newline at end of file
+
+commit cee1f8f7127f462bd0519db4172235e9f25afc6b
+Author: Aditya Nitin Mohite <adityamohitejee@gmail.com>
+Date:   Tue Mar 21 23:32:55 2023 +0530
+
+    Added favourite restaurant and movie
+
+diff --git a/Info.txt b/Info.txt
+index 142cfaf..e16249f 100644
+--- a/Info.txt
++++ b/Info.txt
+@@ -1 +1,2 @@
+-ADITYA NITIN MOHITE Computer Science
+\ No newline at end of file
++ADITYA NITIN MOHITE Computer Science
++Starbucks DMC
+\ No newline at end of file
+
+commit 980cea6463be3414b46741ada365d09b5ccc096d
+Author: Aditya Nitin Mohite <adityamohitejee@gmail.com>
+Date:   Tue Mar 21 23:27:52 2023 +0530
+
+    Now has my major
+
+diff --git a/Info.txt b/Info.txt
+index 736558a..142cfaf 100644
+--- a/Info.txt
++++ b/Info.txt
+@@ -1 +1 @@
+-ADITYA NITIN MOHITE 27594
+\ No newline at end of file
++ADITYA NITIN MOHITE Computer Science
+\ No newline at end of file
+
+commit 5ac11921cc91754e51581d370bcccf0b64368ea9
+Author: Aditya Nitin Mohite <adityamohitejee@gmail.com>
+Date:   Tue Mar 21 23:15:32 2023 +0530
+
+    Commiting a new file with my name
+
+diff --git a/Info.txt b/Info.txt
+new file mode 100644
+index 0000000..736558a
+--- /dev/null
++++ b/Info.txt
+@@ -0,0 +1 @@
++ADITYA NITIN MOHITE 27594
+\ No newline at end of file
